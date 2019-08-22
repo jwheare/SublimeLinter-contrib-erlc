@@ -1,3 +1,9 @@
+[ARCHIVED]
+
+New fork is at https://github.com/jwheare/SublimeLinter-erlc/
+
+---
+
 SublimeLinter-erlc
 ==========================
 
